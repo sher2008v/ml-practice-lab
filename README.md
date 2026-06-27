@@ -28,7 +28,7 @@ Depending on the exercise, a directory may include notebooks, source code, notes
 
 For each exercise, I include a short note with its name and a brief explanation.
 
-....
+- **mobile-prices-classification** — This exercise explores the performance of Naive Bayes, KNN, and SVM models on a dataset under different feature engineering settings.
 
 ## Note for Visitors
 
