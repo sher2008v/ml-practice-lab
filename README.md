@@ -29,6 +29,8 @@ Depending on the exercise, a directory may include notebooks, source code, notes
 For each exercise, I include a short note with its name and a brief explanation.
 
 - **mobile-prices-classification** — This exercise explores the performance of Logistic Regression, Naive Bayes, KNN, and SVM models on a dataset under different feature engineering settings.
+Dataset on Kaggle : https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
+- **small-data-hiring-analysis** — A practice project to compare Logistic Regression and Decision Tree on small, low-sample synthetic binary classification datasets with fully categorical features, focusing on model behavior and overfitting.
 
 ## Note for Visitors
 
