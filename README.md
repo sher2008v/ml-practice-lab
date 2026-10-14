@@ -24,16 +24,6 @@ The goals of this repository are to:
 Each exercise is stored in its own directory.  
 Depending on the exercise, a directory may include notebooks, source code, notes, or other related files.
 
-## Exercise Notes
-
-For each exercise, I include a short note with its name and a brief explanation.
-
-- **mobile-prices-classification** — This exercise explores the performance of Logistic Regression, Naive Bayes, KNN, and SVM models on a dataset under different feature engineering settings.
-Dataset on Kaggle : https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
-- **small-data-hiring-analysis** — A practice project to compare Logistic Regression and Decision Tree on small, low-sample synthetic binary classification datasets with fully categorical features, focusing on model behavior and overfitting.
-- **loan-approval-ensemble-comparison** — A practical exercise comparing Decision Tree, Random Forest, and AdaBoost algorithms on the loan prediction dataset.
-Dataset on Kaggle : https://www.kaggle.com/datasets/ninzaami/loan-predication
-
 ## Note for Visitors
 
 This repository reflects an active learning process.  

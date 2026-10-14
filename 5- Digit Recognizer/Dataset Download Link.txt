@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/animatronbot/mnist-digit-recognizer/data
